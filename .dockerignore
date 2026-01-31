@@ -1,0 +1,10 @@
+bin/
+dist/
+coverage.*
+*.html
+.git/
+.idea/
+.vscode/
+.env
+gosec-report.*
+trivy-results.*
